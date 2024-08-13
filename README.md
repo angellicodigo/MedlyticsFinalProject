@@ -11,3 +11,4 @@ https://www.kaggle.com/datasets/drizasazanitaisa/dyslexia-handwriting-dataset
 Our dataset was undersampled, so we had equal number of images per category. We found that using transfer learning, the **VGG16 model** did the best with a **training accuracy of 0.879** and **validation accuracy of 0.894**. We hope to furter our research by collaborating with dyslexia centers to learn more about what they need and focusing on analyzing the spacing betwee letters in a word, rather than only focusing on the letters.
 
 Here is a demonstration of a web browser using our model: https://youtu.be/qL-5fYlXstY?si=FSp3tmuLiK1hn19o
+Here is a video explaining our presentation in full: https://youtu.be/N9kcXMaaTuo?si=UrKaULO6egtZvIYo&t=2264
